@@ -1,5 +1,5 @@
 {
-  "name": "𝚂𝚄𝙻𝙰-md",
+  "name": "ravi",
   "version": "1.0.0",
   "description": "𝚂𝚄𝙻𝙰-MD WhatsApp Bot with Multi-Number Support",
   "main": "index.js",
@@ -50,8 +50,7 @@
     "bot",
     "multi-device",
     "baileys",
-    "𝚂𝚄𝙻𝙰-𝙼𝙳",
-    "© 𝚂𝚄𝙻𝙰-𝙼𝙳"
+    "sula"
   ],
   "author": "SULAKSHA MADARA",
   "license": "MIT"
